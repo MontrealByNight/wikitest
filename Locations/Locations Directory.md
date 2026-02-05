@@ -24,7 +24,7 @@ This directory serves as the master reference for all territories in the chronic
 * **Our Lady of Grace Catholic Church**: A modest stone parish church with a simple steeple rising above the surrounding neighborhood. Its exterior is light grey, with arched stained glass windows and heavy wooden doors. Inside, the long nave is lined with wooden pews leading to a raised altar beneath a vaulted ceiling.
     * **Coordinates**: `45.4500, -73.6328`
     * **Hunting**: **Cleaver** DC 6.
-    * **Domain Traits**: Domain ●●●, Chasse ●●●, Lien ●●●, Portillon ●●● (Special: ↪ Firestation ●●).
+    * **Domain Traits**: Owned by Maison Des Lys Violets Coterie | Domain ●●●, Chasse ●●●, Lien ●●●, Portillon ●●● (Special: ↪ Firestation ●●).
 
 ### Montreal West
 * **Devil's Hill**: A prominent, elevated area known for its panoramic views of the surrounding neighborhood. The hill is surrounded by a mix of dense trees and open spaces, offering a natural, somewhat rugged terrain. It’s a quiet location, often frequented by those seeking solitude or a scenic place to relax.
@@ -107,7 +107,7 @@ This directory serves as the master reference for all territories in the chronic
 * **Marché Maisonneuve**: A large public market housed in a beaux-arts building with brick columns and arched windows.
     * **Coordinates**: `45.5505, -73.5461`
     * **Hunting**: **Alleycat** DC 2.
-* **Domain Traits**: Domain ●, Chasse ●, Lien ● (●●), Portillon ●.
+* **Domain Traits**: Owned by the Wolfhounds Coterie | Domain ●, Chasse ●, Lien ● (●●), Portillon ●.
 
 ### Riviere des Prairies
 * **Bois-de-l'Anjou Nature Park**: A dense stretch of preserved woodland nestled behind suburban streets. Narrow trails wind through groves of pine and birch.
@@ -155,6 +155,8 @@ This directory serves as the master reference for all territories in the chronic
 * **The Labyrinth of Old Montreal’s Alleys**: Narrow alleys winding between old stone buildings and hidden courtyards. At night, these dimly lit paths form a dark, disorienting network.
     * **Coordinates**: `45.5030, -73.5530`
     * **Hunting**: **Alleycat** DC 4, **Trapdoor** DC 4, **Pursuer** DC 4, **Montero** DC 4.
+    * **Domain Traits**: Owned by The Wildlings Coterie Coterie | Domain ●, Chasse ●, Lien ●, Portillon ●.
+
 * **Notre-Dame Basilica**: Towering Gothic Revival architecture with intricate stone carvings and two imposing bell towers. Inside, vaulted ceilings are dimly lit in blue and gold.
     * **Coordinates**: `45.5048, -73.5560`
 * **The Clock Tower and Promenade**: Rising at the harbor’s edge, this massive white tower offers sweeping views of the river. At night, its light casts long shadows along the promenade.
@@ -177,7 +179,6 @@ This directory serves as the master reference for all territories in the chronic
 * **Church of the Madonna della Difesa**: A striking brick church with high, pointed arches and intricate stonework. Inside, the vast nave is illuminated by vibrant stained-glass windows.
 * **Nestor's Bar**: A hidden bar with a vintage, speakeasy vibe. Dimly lit interior furnished with plush velvet and dark wood.
     * **Coordinates**: `45.5350, -73.6110`
-    * **Domain Traits**: Domain ●, Chasse ●, Lien ●, Portillon ●, Haven ●● (Library: Oblivion focus, Cell, Shared Flaw: Pedro is the Landlord).
 * **Little Italy Market (Jean-Talon Market)**: A sprawling market with rows of produce stalls and stone floors that add an element of weight and history.
     * **Coordinates**: `45.5361, -73.6149`
 * **Evans Funeral House**: Combining modern minimalism with a serene atmosphere, featuring muted greys, whites, and light wood. Viewing rooms offer simple elegance.

@@ -23,6 +23,13 @@
     * **Trapdoor DC**: 4
     * **Pursuer DC**: 4
     * **Montero DC**: 4
+ **Currently Owned by The Wildlings Coterie**
+```Coterie domain traits
+* Domain: ●
+* Chasse: ●
+* Lien: ● 
+* Portillon: ●```
+      
 * **Notre-Dame Basilica**: A Gothic Revival masterpiece with imposing bell towers and an interior of blue and gold vaulted ceilings.
 * **The Clock Tower and Promenade**: A massive white tower at the harbor's edge that casts long shadows along the shore at night.
 * **Bonsecours Market**: A neoclassical building with a curved silver dome where stone halls echo with a heavy sense of history.
@@ -48,15 +55,6 @@
 
 * **Church of the Madonna della Difesa**: A dominating brick church with vibrant stained-glass and a crypt holding the remains of past generations.
 * **Nestor's Bar**: A hidden, dimly lit speakeasy furnished with plush velvet and dark wood.
-    * **Owner**: @null
-    * **Domain size**: ●
-    * **Chasse**: ●
-    * **Lien**: ●
-    * **Portillon**: ●
-    * **Haven**: ●● (2 free dots)
-    * **Library**: ● (Oblivion, free dot)
-    * **Cell**: ● (Free)
-    * **FLAW**: Shared ●● (Pedro is the Landlord)
 * **Little Italy Market (Jean-Talon Market)**: A sprawling market with stone floors and high ceilings that connect deeply to the local community.
 * **Evans Funeral House**: A modern, minimalist funeral home with a peaceful atmosphere and viewing rooms designed for privacy.
     * **Portillon (Hecata leadership)**: ●●●●

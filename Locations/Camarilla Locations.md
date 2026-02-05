@@ -19,15 +19,16 @@
 * **Monkland Avenue**: A community-centered commercial hub with tree-lined sidewalks, shops, and restaurants.
 * **Bistro le Bourbon**: A casual French-inspired bistro with rustic decor and soft lighting, popular for relaxed local dining.
 * **Our Lady of Grace Catholic Church**: A gray stone parish with arched stained glass and a simple steeple.
-    * **Owner**: @null
-    * **Domain Traits**: 
-        * **Domain**: ●●●
-        * **Position**: Our Lady of Grace Catholic Church
-        * **Chasse**: ●●●
-        * **Lien**: ●●●
-        * **Portillon**: ●●●
-        * **Special**: ↪ Firestation ●●
 
+**Currently Owned by the Maison Des Lys Violets Coterie**
+```Domain Traits**:
+* Domain: ●●●
+* Position: Our Lady of Grace Catholic Church
+* Chasse: ●●●
+* Lien: ●●●
+* Portillon: ●●●
+* Special: ↪ Firestation ●●
+```
 ---
 
 ## Montreal West
