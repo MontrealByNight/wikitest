@@ -43,13 +43,14 @@
 * **Marché Maisonneuve:** A beaux-arts public market building.
     * **Alleycat DC:** 2
 
-**Domain Traits:**
+**Currently Owned By The Wolfhounds Coterie**  
+```**Domain Traits:**
 * **Domain:** ●
 * **Chasse:** ●
 * **Lien:** ● (●●)
     * ↪ Marketplace ●●
 * **Portillon:** ●
-
+```
 ---
 
 ## Riviere des Prairies
