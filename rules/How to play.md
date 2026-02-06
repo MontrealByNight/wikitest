@@ -22,7 +22,7 @@ A header needs to include: Character Name Your location within the channel. Writ
 
 Examples:
 
-**\["Mia Lavigne" | Westmount: outside the medical centre | Looks: Stunning | Status 2: Camarilla Hound, Suspect (Anarch), Beacon of Profanity | Rapid Reflexes | Subtle Hammer | Humanity 5 | Hunger 1 | BoL On]**
+> **\["Mia Lavigne" | Westmount: outside the medical centre | Looks: Stunning | Status 2: Camarilla Hound, Suspect (Anarch), Beacon of Profanity | Rapid Reflexes | Subtle Hammer | Humanity 5 | Hunger 1 | BoL On]**
 
 As you can see, this at a glance tells you:
 
