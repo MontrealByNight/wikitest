@@ -34,7 +34,7 @@
 * **The Clock Tower and Promenade**: A massive white tower at the harbor's edge that casts long shadows along the shore at night.
 * **Bonsecours Market**: A neoclassical building with a curved silver dome where stone halls echo with a heavy sense of history.
 * **The Velvet Speakeasy**: Description: A true "speakeasy" style club located in the cavernous stone basement of the Auberge Saint-Gabriel. Accessible via a confusing, narrow tunnel lit by candles. The interior features stone walls, plush velvet furniture, and a dark, fashion-forward atmosphere.
-     * **Siren DC**: 3```
+     * **Siren DC**: 3
 
 ---
 
