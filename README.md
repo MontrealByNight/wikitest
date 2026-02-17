@@ -23,6 +23,6 @@ By clicking on the emoji you accept the aforementioned rules and you declare tha
 
 Also, obviously, we are in no way affiliated with White Wolf, Paradox or any copyrighted entity and we can operate under the Dark Pack license.
 
-
+<iframe src="https://discord.com/widget?id=1131321454701580318&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <figure><img src="https://images-ext-1.discordapp.net/external/vL5dRUSiK7QDzs97IRoBJ9FJkNQYFHMbFZhhjzYeaO0/https/cdn-longterm.mee6.xyz/plugins/embeds/images/1131321454701580318/bab49e54d8467f72f1dea73b032122bf8b255bb3db380391ec50454cf68f7525.png?format=webp&#x26;quality=lossless&#x26;width=1586&#x26;height=686" alt=""><figcaption></figcaption></figure>
