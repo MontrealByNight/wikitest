@@ -12,7 +12,7 @@ If you're ever unsure about something, then this is the place for you. Still uns
 
 
 
-Welcome to Montreal by Night!\
+# Welcome to Montreal by Night!\
 This is a VTM rpg server. We use the rules and the system of VTM v5, with some slight adjustments and houserules to better fit the format and the chronicle.
 
 The game will touch dark subjects, violence, content warnings and so on. There could be graphic description of any of those subjects.
