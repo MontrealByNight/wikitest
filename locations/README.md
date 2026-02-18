@@ -1,13 +1,11 @@
-# Montreal Territories Map
+# Locations
 
 Below is the live interactive map of the city.
 
-{% embed url="https://montrealbynight.github.io/wikitest/" %}
-{ "caption": "Interactive Map of Montreal By Night" }
-{% endembed %}
+{% embed url="https://montrealbynight.github.io/wikitest/" fullWidth="false" %}
 
----
 ### Legend
+
 * **Orange**: Camarilla
 * **Blue**: Anarch
 * **Dark Red**: Contested
