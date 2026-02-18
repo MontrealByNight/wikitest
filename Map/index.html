@@ -39,7 +39,6 @@
   <script src="data/camarilla.js"></script>
   <script src="data/anarch.js"></script>
   <script src="data/contested.js"></script>
-  <script src="data/others.js"></script>
 
   <script>
     // 1. Initialize Map
@@ -52,11 +51,12 @@
       maxZoom: 19
     }).addTo(map);
 
-   // 3. Define Colors
+// 3. Define Colors
     function getColor(type) {
       if (type === 'Camarilla') return '#e67e22'; // Orange
       if (type === 'Anarch') return '#206694';    // Blue
-      return '#546e7a';                           // Grey (Contested & Others)
+      // Hecata removed as they are now Contested
+      return '#546e7a';                           // Grey (Contested)
     }
 
     // 4. COMBINE ALL DATA LISTS
