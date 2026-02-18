@@ -39,10 +39,11 @@
   <script src="data/camarilla.js"></script>
   <script src="data/anarch.js"></script>
   <script src="data/contested.js"></script>
+  <script src="data/polygons.js"></script>
 
   <script>
-    // 1. Initialize Map
-    var map = L.map('map').setView([45.53, -73.60], 12);
+   // 1. Initialize Map
+    var map = L.map('map').setView([45.53, -73.60], 11);
 
     // 2. Add Tiles
     L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
@@ -51,19 +52,34 @@
       maxZoom: 19
     }).addTo(map);
 
-// 3. Define Colors
+    // 3. Define Colors (Your custom palette)
     function getColor(type) {
       if (type === 'Camarilla') return '#e67e22'; // Orange
       if (type === 'Anarch') return '#206694';    // Blue
-      // Hecata removed as they are now Contested
       return '#546e7a';                           // Grey (Contested)
     }
 
-    // 4. COMBINE ALL DATA LISTS
-    // We now merge 3 lists
+    // 4. DRAW POLYGONS
+    if (typeof mapPolygons !== 'undefined') {
+      mapPolygons.forEach(function(poly) {
+        var zoneColor = getColor(poly.type);
+        
+        var polygon = L.polygon(poly.coords, {
+          color: zoneColor,       // Border line color
+          weight: 2,              // Border thickness
+          fillColor: zoneColor,   // Inside fill color
+          fillOpacity: 0.15       // 15% opacity so you can still read street names
+        }).addTo(map);
+
+        // Optional: Add a label when you click the shape itself
+        polygon.bindPopup(`<b>${poly.name}</b><br><span style="color:${zoneColor}">${poly.type} Territory</span>`);
+      });
+    }
+
+    // 5. COMBINE MARKER DATA LISTS
     var mapLocations = [].concat(data_camarilla, data_anarch, data_contested);
 
-    // 5. Add Markers
+    // 6. ADD MARKERS
     mapLocations.forEach(function(loc) {
       var color = getColor(loc.type);
       
@@ -71,7 +87,7 @@
         color: color,
         fillColor: color,
         fillOpacity: 0.7,
-        radius: 8,
+        radius: 7,
         weight: 1
       }).addTo(map);
 
