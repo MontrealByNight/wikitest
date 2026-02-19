@@ -1,4 +1,37 @@
-// 1. Define your Themes (Basemaps)
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Montreal By Night Map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <style>
+        body { margin: 0; padding: 0; background: #1a1a1a; font-family: sans-serif; }
+        #map { width: 100vw; height: 100vh; }
+        
+        /* Custom Dark Mode Popups */
+        .leaflet-popup-content-wrapper { background: #2b2b2b; color: #e0e0e0; border: 1px solid #444; border-radius: 6px; }
+        .leaflet-popup-tip { background: #2b2b2b; border: 1px solid #444; }
+        .leaflet-popup-content b { color: #e67e22; font-size: 1.1em; }
+        .leaflet-popup-content img { border-radius: 4px; margin-top: 8px; margin-bottom: 8px; }
+        .leaflet-popup-content a { color: #5dade2; text-decoration: none; }
+        .leaflet-popup-content a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <div id="map"></div>
+
+    <script src="data/camarilla.js"></script>
+    <script src="data/anarch.js"></script>
+    <script src="data/contested.js"></script>
+    <script src="data/polygons.js"></script>
+
+    <script>
+        // 1. Define your Themes (Basemaps)
         var darkTheme = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
             attribution: '&copy; CARTO', subdomains: 'abcd', maxZoom: 19
         });
@@ -13,7 +46,7 @@
         var map = L.map('map', {
             center: [45.53, -73.60],
             zoom: 11,
-            layers: [darkTheme] // Default theme
+            layers: [darkTheme] // Sets Dark Theme as the default on load
         });
 
         // 3. Create the Empty Overlay Groups (These are the checkboxes!)
@@ -38,7 +71,7 @@
                     color: zoneColor, weight: 2, fillColor: zoneColor, fillOpacity: 0.15
                 })
                 .bindPopup("<b>" + poly.name + "</b><br>Type: " + poly.type)
-                .addTo(territoryLayer); // Notice it goes to territoryLayer, not 'map'
+                .addTo(territoryLayer);
             });
         }
 
@@ -75,5 +108,8 @@
             "Contested/Other Pins": contestedLayer
         };
 
-        // Add the menu to the top right
+        // Add the menu to the top right 
         L.control.layers(baseMaps, overlayMaps, { position: 'topright' }).addTo(map);
+    </script>
+</body>
+</html>
