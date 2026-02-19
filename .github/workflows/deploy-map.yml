@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # This tells GitHub to ONLY publish the Map folder
-          path: 'Map'
+          path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
