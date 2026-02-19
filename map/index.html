@@ -42,15 +42,34 @@
   <script src="data/polygons.js"></script>
 
   <script>
-   // 1. Initialize Map
-    var map = L.map('map').setView([45.53, -73.60], 11);
+// 1. Define your Themes (Basemaps)
+        var darkTheme = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; CARTO', subdomains: 'abcd', maxZoom: 19
+        });
 
-    // 2. Add Tiles
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; OpenStreetMap &copy; CARTO',
-      subdomains: 'abcd',
-      maxZoom: 19
-    }).addTo(map);
+        var lightTheme = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; CARTO', subdomains: 'abcd', maxZoom: 19
+        });
+
+        var satelliteTheme = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+            attribution: 'Tiles &copy; Esri', maxZoom: 19
+        });
+
+        // 2. Initialize the Map and set the Default Theme
+        var map = L.map('map', {
+            center: [45.53, -73.60],
+            zoom: 11,
+            layers: [darkTheme] // This makes Dark Mode the default when they load the page
+        });
+
+        // 3. Create the Theme Switcher Menu
+        var baseMaps = {
+            "Dark Mode (Default)": darkTheme,
+            "Light Mode": lightTheme,
+            "Satellite View": satelliteTheme
+        };
+
+        L.control.layers(baseMaps, null, { position: 'topright' }).addTo(map);
 
    // 3. Define Colors
     function getColor(type) {
