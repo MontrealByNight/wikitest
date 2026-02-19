@@ -27,10 +27,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload Map Folder
+      - name: Upload Entire Repository
         uses: actions/upload-pages-artifact@v3
         with:
-          # This tells GitHub to ONLY publish the Map folder
+          # This tells GitHub to publish the entire repository (the dot means "root")
           path: '.'
 
       - name: Deploy to GitHub Pages
