@@ -1,15 +1,15 @@
 # ⚜️ Maison des Lys Violets
 
-**Type:** Cerberus/Questari
-**Name:** Maison des Lys Violets
-**Symbol:** ⚜️
+* **Type:** Cerberus/Questari
+* **Name:** Maison des Lys Violets
+* **Symbol:** ⚜️
 
 ## 🏰 Domain Traits
-**Domain:** ●●●
-**Location:** Our Lady of Grace Catholic Church (NDG)
-**Chasse:** ●●● (Emily, 6 xp)
-**Lien:** ●●● (2 free dots)
-**Portillon:** ●●●
+* **Domain:** ●●●
+* **Location:** Our Lady of Grace Catholic Church (NDG)
+* **Chasse:** ●●● (Emily, 6 xp)
+* **Lien:** ●●● (2 free dots)
+* **Portillon:** ●●●
 * ↪ **Firestation:** (2 free dots + free dot exchanged)
 
 ## 📍 Location Details
