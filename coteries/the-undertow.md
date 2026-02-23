@@ -1,20 +1,20 @@
 # 🚢 The Undertow
 
-**Type:** Commando
-**Name:** Maison des Lys Violets
-**Symbol:** 🚢
+* **Type:** Commando
+* **Name:** Maison des Lys Violets
+* **Symbol:** 🚢
 
 ## 🏰 Domain Traits
-**Domain:** ●●●
-**Location:** #Beaconsville - Beaconsville Yacht Club
-**Chasse:** ●●●
-**Lien:** ●(●●)  
+* **Domain:** ●●●
+* **Location:** #Beaconsville - Beaconsville Yacht Club
+* **Chasse:** ●●●
+* **Lien:** ●(●●)  
 * ↪ **Members Only:**
-**Portillon:** ●●●
+* **Portillon:** ●●●
 
 
 ## 📍 Location Details
-**Primary HQ:** Beaconsville Yacht Club
+* **Primary HQ:** Beaconsville Yacht Club
 * **Coordinates:** `xx.xxx xx.xxx`
 * **Description:** : A private club for sailing enthusiasts featuring docks, storage, and a clubhouse with formal and casual spaces.
 * **Hunting:** General Hunting DC 6.
