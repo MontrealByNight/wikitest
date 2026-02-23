@@ -1,7 +1,7 @@
 # 🚢 The Undertow
 
 * **Type:** Commando
-* **Name:** Maison des Lys Violets
+* **Name:** The Undertow
 * **Symbol:** 🚢
 
 ## 🏰 Domain Traits
