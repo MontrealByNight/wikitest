@@ -1,7 +1,7 @@
-# The Wildlings
+# 🎤 The Wildlings
 
 * **Type:** The Sound of Protest
-* **Name:** <@&1468381481264087111>
+* **Name:** The Wildlings
 * **Symbol:** 🎤
 
 ## 🏰 Domain Traits
