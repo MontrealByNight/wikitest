@@ -7,6 +7,16 @@
     * **Sandman DC**: 4
     * **Cleaver DC**: 4
 * **Beaconsfield Yacht Club**: A private club for sailing enthusiasts featuring docks, storage, and a clubhouse with formal and casual spaces.
+* **Currently Owned by The Undertow Coterie**
+```Domain Traits**:
+* Domain: ●●●
+* Position: Beaconsfield Yacht Club
+* Chasse: ●●●
+* Lien: ●●●
+* Special: ↪ Members Only ●●
+* Portillon: ●●●
+```
+
 * **Beacon Hill Park**: A public park offering open green spaces, large trees, and walking paths for a quiet retreat.
 
 ---
