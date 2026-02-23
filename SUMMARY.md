@@ -23,3 +23,4 @@
   * [🐺The Wolfhounds](coteries/the-wolfhounds.md)
   * [⚜️Maison Des Lys Violets](coteries/maison-des-lys-violets.md)
   * [🎤The Wildlings](coteries/the-wildlings.md)
+  * [🚢The Undertow](coteries/the-undertow.md)
