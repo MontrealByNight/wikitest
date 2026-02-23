@@ -22,7 +22,7 @@
 ## 🏚️ Havens
 The coterie maintains one mobile haven.
 
-### 1. "*Severance* Yacht
+### 1. "*Severance*" Yacht
 **Location:** #Beaconsville - Beaconsville Yacht Club
 **Haven Rating:** ●●
 * ↪ **Armored:** ●
