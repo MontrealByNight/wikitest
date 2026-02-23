@@ -30,10 +30,10 @@
     * ↪ **Flaw:** Cursed ● (Prey Exclusion: Musicians)
 
 ## 🩸 Clan Merits
-* **All Access** (Toreador): ●
+* **All Access**: ●
 
 ## 🤝 Pooled Backgrounds
-* **Herd:** ●● (2 dots Free)
+* **Herd:** ●●
 
 ## 👥 Members
 * Alice <@213062447471263744>
