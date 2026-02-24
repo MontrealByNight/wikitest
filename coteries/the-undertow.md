@@ -47,6 +47,6 @@ The coterie maintains one mobile haven.
 ## 🤝 Pooled Backgrounds
 * **Contacts:** ●●● (Criminal arms dealer)
 * **Contacts:** ●●● (Underworld)
-* **Contacts:** ● (Police)
+* **Contacts:** ●● (Police)
 * **Influence:** ●● (Police)
 
