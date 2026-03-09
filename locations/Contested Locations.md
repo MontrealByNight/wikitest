@@ -23,7 +23,7 @@
     * **Trapdoor DC**: 4
     * **Pursuer DC**: 4
     * **Montero DC**: 4
- **Currently Owned by The Wildlings Coterie**
+ **Currently Owned by 🎤The Wildlings Coterie**
 ```Coterie domain traits
 * Domain: ●
 * Chasse: ●

@@ -7,7 +7,7 @@
     * **Sandman DC**: 4
     * **Cleaver DC**: 4
 * **Beaconsfield Yacht Club**: A private club for sailing enthusiasts featuring docks, storage, and a clubhouse with formal and casual spaces.
-* **Currently Owned by The Undertow Coterie**
+* **Currently Owned by 🚢The Undertow Coterie**
 ```Domain Traits**:
 * Domain: ●●●
 * Position: Beaconsfield Yacht Club
@@ -30,7 +30,7 @@
 * **Bistro le Bourbon**: A casual French-inspired bistro with rustic decor and soft lighting, popular for relaxed local dining.
 * **Our Lady of Grace Catholic Church**: A gray stone parish with arched stained glass and a simple steeple.
 
-**Currently Owned by the Maison Des Lys Violets Coterie**
+**Currently Owned by the ⚜️Maison Des Lys Violets Coterie**
 ```Domain Traits**:
 * Domain: ●●●
 * Position: Our Lady of Grace Catholic Church

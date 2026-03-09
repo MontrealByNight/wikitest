@@ -28,7 +28,16 @@
     * **Bagger DC:** 2
 * **Refinery Overlook:** A hill overlooking industrial pipes and chimneys that glow orange with safety flares at night.
 * **Rue Notre-Dame Industrial Strip:** A stretch of warehouses and service yards that is mostly deserted after sunset.
-* **Waterfront Rail Yard:** Parallel to the St. Lawrence River, this yard smells of rust and diesel and is covered in graffiti.
+* **Waterfront Rail Yard:** Parallel to the St. Lawrence River, this yard smells of rust and diesel and is covered in graffiti.  
+
+**Currently Owned By The ♻️Ordinance 16-49 Coterie**  
+```**Domain Traits:**
+*Domain: ●●●
+*Chasse: ●●●
+*Lien: ●●●
+*Portillon:** ●●●
+```
+
 
 ---
 
@@ -43,7 +52,7 @@
 * **Marché Maisonneuve:** A beaux-arts public market building.
     * **Alleycat DC:** 2
 
-**Currently Owned By The Wolfhounds Coterie**  
+**Currently Owned By 🐺The Wolfhounds Coterie**  
 ```**Domain Traits:**
 *Domain: ●
 *Chasse: ●
