@@ -23,5 +23,5 @@
   * [⚜️Maison Des Lys Violets](coteries/maison-des-lys-violets.md)
   * [🚢The Undertow](coteries/the-undertow.md)
   * [🐺The Wolfhounds](coteries/the-wolfhounds.md)
-  * [🎤The Wildlings](coteries/the-wildlings.md)
   * [♻️Ordinance 16 49](coteries/ordinance-16-49.md)
+  * [🎤The Wildlings](coteries/the-wildlings.md)
