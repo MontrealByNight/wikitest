@@ -12,9 +12,8 @@ This directory serves as the master reference for all territories in the chronic
     * **Hunting**: **Sandman** DC 4, **Cleaver** DC 4.
 * **Beaconsfield Yacht Club**: A private club located along the shores of Lake Saint-Louis, offering facilities for sailing and other water-based activities. The club is a hub for local boating enthusiasts, with docks, storage areas for boats, and a clubhouse that offers both casual and formal spaces for members. The surrounding area includes scenic views of the lake and is a place for recreation and social gatherings, particularly during the warmer months.
     * **Coordinates**: `45.4283, -73.8665`
-    * **Domain Traits**: Owned by The Undertow Coterie | Domain: ●●●, Chasse: ●●●, Lien: ●●●, (Special: ↪ Members Only ●●) Portillon: ●●●.
+    * **Domain Traits**: Owned by 🚢The Undertow Coterie | Domain: ●●●, Chasse: ●●●, Lien: ●●●, (Special: ↪ Members Only ●●) Portillon: ●●●.
  
-
 * **Beacon Hill Park**: A well-maintained public park offering a quiet retreat for the residents of Beaconsfield. The park features open green spaces, shaded areas under large trees, and walking paths. It's a popular spot for picnics, outdoor sports, and leisurely strolls. The park's calm atmosphere makes it a peaceful location for both relaxation and recreation.
 
 ### Notre Dame de Grace (NDG)
@@ -27,7 +26,7 @@ This directory serves as the master reference for all territories in the chronic
 * **Our Lady of Grace Catholic Church**: A modest stone parish church with a simple steeple rising above the surrounding neighborhood. Its exterior is light grey, with arched stained glass windows and heavy wooden doors. Inside, the long nave is lined with wooden pews leading to a raised altar beneath a vaulted ceiling.
     * **Coordinates**: `45.4500, -73.6328`
     * **Hunting**: **Cleaver** DC 6.
-    * **Domain Traits**: Owned by Maison Des Lys Violets Coterie | Domain ●●●, Chasse ●●●, Lien ●●●, Portillon ●●● (Special: ↪ Firestation ●●).
+    * **Domain Traits**: Owned by ⚜️Maison Des Lys Violets Coterie | Domain ●●●, Chasse ●●●, Lien ●●●, Portillon ●●● (Special: ↪ Firestation ●●).
 
 ### Montreal West
 * **Devil's Hill**: A prominent, elevated area known for its panoramic views of the surrounding neighborhood. The hill is surrounded by a mix of dense trees and open spaces, offering a natural, somewhat rugged terrain. It’s a quiet location, often frequented by those seeking solitude or a scenic place to relax.
@@ -62,7 +61,7 @@ This directory serves as the master reference for all territories in the chronic
 * **Pierrefonds Cultural Centre**: A community hub and event space with contemporary architecture, glass façades, and spacious interiors. At night, the building casts a soft glow over the nearby park.
 * **Boulevard Gouin Ouest**: This historic boulevard winds along the river, lined with heritage homes and quaint local shops. The architecture is a blend of rustic charm and elegance, with several houses dating back a century or more.
 
-### Westmount (General Hunting DC 5)
+### Westmount 
 * **S16 Art Gallery**: A contemporary art gallery known for its innovative exhibitions that challenge traditional aesthetics. The gallery’s sleek, modern architecture stands out amidst Westmount’s historical surroundings.
     * **Coordinates**: `45.4874, -73.5909`
 * **Bibliothèque publique de Westmount**: Westmount's public library offers an inviting space with oak-paneled reading rooms, large arched windows, and cozy study areas. The library’s classic architecture and quiet ambiance make it a popular spot.
@@ -97,6 +96,8 @@ This directory serves as the master reference for all territories in the chronic
 * **Refinery Overlook**: Set just above the industrial complexes, this small hill offers a wide view of chimneys, pipes, and storage tanks. At night, the landscape glows orange with safety lights and flares.
 * **Rue Notre-Dame Industrial Strip**: Lined with aging warehouses and fenced-off service yards, this stretch of road is mostly deserted after sunset.
 * **Waterfront Rail Yard**: Parallel to the St. Lawrence River, rows of freight cars sit still beneath skeletal lights. The air smells faintly of rust and diesel.
+    * **Coordinates**: 
+    * **Domain Traits**: Owned by the ♻️Ordinance 16 49 Coterie | Domain: ●●●, Chasse: ●●●, Lien: ●●●, Portillon: ●●●.
 
 ### Mercier Hochelaga Maisonneuve
 * **Montréal Biodome**: Housed in a distinctive domed structure, this facility contains several controlled ecosystems—tropical forests, coastal cliffs, and polar environments.
@@ -110,7 +111,7 @@ This directory serves as the master reference for all territories in the chronic
 * **Marché Maisonneuve**: A large public market housed in a beaux-arts building with brick columns and arched windows.
     * **Coordinates**: `45.5505, -73.5461`
     * **Hunting**: **Alleycat** DC 2.
-* **Domain Traits**: Owned by the Wolfhounds Coterie | Domain ●, Chasse ●, Lien ● (●●), Portillon ●.
+* **Domain Traits**: Owned by 🐺The Wolfhounds Coterie | Domain ●, Chasse ●, Lien ● (●●), Portillon ●.
 
 ### Riviere des Prairies
 * **Bois-de-l'Anjou Nature Park**: A dense stretch of preserved woodland nestled behind suburban streets. Narrow trails wind through groves of pine and birch.
@@ -158,7 +159,7 @@ This directory serves as the master reference for all territories in the chronic
 * **The Labyrinth of Old Montreal’s Alleys**: Narrow alleys winding between old stone buildings and hidden courtyards. At night, these dimly lit paths form a dark, disorienting network.
     * **Coordinates**: `45.5030, -73.5530`
     * **Hunting**: **Alleycat** DC 4, **Trapdoor** DC 4, **Pursuer** DC 4, **Montero** DC 4.
-    * **Domain Traits**: Owned by The Wildlings Coterie Coterie | Domain ●, Chasse ●, Lien ●, Portillon ●.
+    * **Domain Traits**: Owned by 🎤The Wildlings Coterie | Domain ●, Chasse ●, Lien ●, Portillon ●.
 
 * **Notre-Dame Basilica**: Towering Gothic Revival architecture with intricate stone carvings and two imposing bell towers. Inside, vaulted ceilings are dimly lit in blue and gold.
     * **Coordinates**: `45.5048, -73.5560`
