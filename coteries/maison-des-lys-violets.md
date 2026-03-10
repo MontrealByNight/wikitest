@@ -21,7 +21,7 @@
 The coterie maintains two havens.
 
 ### 1. Chantry
-**Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church
+**Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church    
 **Haven Rating:** ●● 
 * ↪ **Library (Blood Sorcery):** ● 
 * ↪ **Warding (Ghouls/Spirits):** ●● 
@@ -30,7 +30,7 @@ The coterie maintains two havens.
 * ↪ **Postern:** ● 
 
 ### 2. Empress Theater - Elysium and Carmelita Library
-**Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church
+**Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church   
 **Haven Rating:** ●●● 
 * ↪ **Library (Academics: Montreal, Occult: Kindred History):** ●●
 * ↪ **Warding (Spirits):** ● 
