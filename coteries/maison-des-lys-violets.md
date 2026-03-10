@@ -7,10 +7,10 @@
 ## 🏰 Domain Traits
 * **Domain:** ●●●
 * **Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church
-* **Chasse:** ●●● (Emily, 6 xp)
-* **Lien:** ●●● (2 free dots)
+* **Chasse:** ●●●
+* **Lien:** ●●●
 * **Portillon:** ●●●
-* ↪ **Firestation:** (2 free dots + 1 free dot exchanged)
+* ↪ **Firestation:** 
 
 ## 📍 Location Details
 * **Primary HQ:** Our Lady of Grace Catholic Church
@@ -54,5 +54,5 @@ The coterie maintains two havens.
 * Ashley
 
 ## 🤝 Pooled Backgrounds
-* **Contacts:** ●●●
+* **Contacts:** ●●● (Criminals)
 * **Herd:** ●●● 
