@@ -10,7 +10,7 @@
 * **Location:** Marché Maisonneuve (Mercier Hochelaga Maisonneuve)  
 * **Chasse:** ●  
 * **Lien:** ●(●●)  
-* ↪ **Market Place:** ●● (2 free dots) **Portillon:** ●
+* ↪ **Market Place:** ●● **Portillon:** ●
 
 ## 📍 Location Details
 
@@ -32,7 +32,7 @@
 **Clan Merits:**
 
 * <:Brujah:1134621764660510842> **Boot and Rally** (Brujah): ● 
-* <:Ventrue:1134621798365921342> **Kindred Legacies** (Ventrue): ●● 
+* <:Ventrue:1134621798365921342> **Pack Tactics** (Gangrel): ●●●  
 
 ## 👥 Members
 
