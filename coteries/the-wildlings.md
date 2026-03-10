@@ -21,7 +21,7 @@
 The coterie maintains a single haven.
 
 ### 1. Wildlings Custom House
-**Location:** #Old-Port - The Labyrinth of Old Montreal’s Alleys
+**Location:** #Old-Port - The Labyrinth of Old Montreal’s Alleys   
 **Haven Rating:** ●●
 * ↪ **Watchmen:** ●● 
 * ↪ **Security System:** ●●
