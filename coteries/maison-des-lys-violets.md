@@ -1,40 +1,39 @@
 # ⚜️ Maison des Lys Violets
 
-* **Type:** Cerberus/Questari
+* **Type:** Cerberus / Questari
 * **Name:** Maison des Lys Violets
 * **Symbol:** ⚜️
 
 ## 🏰 Domain Traits
 * **Domain:** ●●●
-* **Location:** Our Lady of Grace Catholic Church (NDG)
+* **Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church
 * **Chasse:** ●●● (Emily, 6 xp)
 * **Lien:** ●●● (2 free dots)
 * **Portillon:** ●●●
-* ↪ **Firestation:** (2 free dots + free dot exchanged)
+* ↪ **Firestation:** (2 free dots + 1 free dot exchanged)
 
 ## 📍 Location Details
-**Primary HQ:** Our Lady of Grace Catholic Church
+* **Primary HQ:** Our Lady of Grace Catholic Church
 * **Coordinates:** `45.4500, -73.6328`
-* **Description:** A gray stone parish that serves as a community center.
-* **Hunting:** General Hunting DC 6.
+* **Description:** A gray stone parish with arched stained glass and a simple steeple.
 
 ## 🏚️ Havens
-The coterie maintains two distinct havens within their domain.
+The coterie maintains two havens.
 
-### 1. Carna Chantry
-**Location:** Same as Domain (Detached house on a quiet backstreet)
-**Total Rating:** ●● 
-* ↪ **Library:** ● 
-* ↪ **Warding:** ●● 
-* ↪ **Location:** ● 
-* ↪ **Security System:** ● 
-* ↪ **Postern:** ●
+### 1. Chantry
+**Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church
+**Haven Rating:** ●● 
+* ↪ **Library (Blood Sorcery):** ● 
+* ↪ **Warding (Ghouls/Spirits):** ●● 
+* ↪ **Location (+2 to base Haven):** ● 
+* ↪ **Security System:** ●
+* ↪ **Postern:** ● 
 
-### 2. Elysium
-**Location:** Empress Theatre
-**Total Rating:** ●●● 
-* ↪ **Library:** ●● 
-* ↪ **Warding:** ● 
+### 2. Empress Theater - Elysium and Carmelita Library
+**Location:** #Notre-Dame-de-Grace - Our Lady of Grace Catholic Church
+**Haven Rating:** ●●● 
+* ↪ **Library (Academics: Montreal, Occult: Kindred History):** ●●
+* ↪ **Warding (Spirits):** ● 
 * ↪ **Location:** ● 
 * ↪ **Postern:** ● 
 * ↪ **Security System:** ● 
@@ -45,11 +44,15 @@ The coterie maintains two distinct havens within their domain.
 * **At Any Cost:** ●● 
 * **Multi-Level Lorekeeping:** ●● 
 
+**Loresheets:**
+* **Carmelita Neillson:** Neillson Library ●●●
+
 ## 👥 Members
-* Emily Viens
-* Lucienne
+* Emily
 * Seraphine
+* Cassandra
+* Ashley
 
 ## 🤝 Pooled Backgrounds
-* **Contacts:** ●●● (Criminals - Emily)
-* **Herd:** ●●● (Emily)
+* **Contacts:** ●●●
+* **Herd:** ●●● 
