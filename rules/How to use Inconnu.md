@@ -1,110 +1,106 @@
 # How to use Inconnu
+
 ### Character Creation and adjustments
 
-1) **__Add your character to the bot__**
+1. **Add your character to the bot**
 
-``/character create 
-name:You character's name 
-template:Vampire
-health:character's health 
-willpower:character's willpower 
-humanity:character's humanity``
+`/character wizard`
 
-After that you get a **DM** from the bot and fill in the __attributes & skills and convictions__
+After that you get a **link** from the bot and fill in the online sheet.
 
-2) **__Add specialties__**
+Everything else beyond this point needs to be done, in server, through the commands listed.
 
-You can add your specialties to your bot and include them into your rolls. To add them you type:
+2. **Add specialties**
 
-``/specialties add Specialties Skill=Specialty ``
+You will have to add your specialties to your bot and include them into your rolls. They should be added already during the character wizard.&#x20;
 
-Example: [Screenshot showing /specialties add Specialties Skill=Specialty]
+If you need to add more, type:
 
-3) **__Add discipline levels__**
+`/specialties add Skill=Specialty`
 
-To **add** your discipline levels you type: ``/disciplines add Discipline=Level``
+Example:&#x20;
 
-To **update** use:`` /disciplines update: discipline=number of dots``
+`/specialties add Brawl=Grapple`
 
-Example: [Screenshot showing discipline update]
+3. **Add discipline levels and powers**
 
-4) **__Add traits/advantages__**
+Discipline levels and powers should be added during the character wizard process.
 
-You can add advantages like fame, influence, looks (beautiful, stunning etc.) to Inconnu.
+To **add** a new discipline you type: `/disciplines add Discipline=Level`&#x20;
 
-Please type ``/traits add Advantages=Number of dice``
+To **update** use: `/disciplines update: discipline=number of dots`
 
-To **update** traits/advantages use: ``/traits update traits Advantage=Number of dice``
+To **add** new powers, use `/powers add: discipline=PowerName`
 
-Beware: Stunning adds 2 dice! Use Stunning=2
 
-Example: [Screenshot showing traits update]
+
+4. **Add traits/advantages**
+
+You need to add advantages like fame, influence, looks (beautiful, stunning etc.) to Inconnu.
+
+They should be added as traits during the character wizard. Every merit and flaw should be added at their value (example, resources 2 you'd put it at 2).&#x20;
+
+The only exceptions are merits that you roll at a different value. (For example, Beautiful is worth 2 points, but when using the merit it only adds one dot, so you should save it in Inconnu as Beautiful=1).
+
+The command is\
+&#x20;`/traits add Advantages=Value`
+
+To **update** traits/advantages use:&#x20;
+
+`/traits update traits Advantage=value`
+
+
 
 ## Dice rolls
 
-**__Wake and Blush of Life__**
+**Wake and Blush of Life**
 
-When the night begins use ``/awaken`` to wake the character up. You will gain used WP back.
+When the night begins use `/awaken` to wake the character up.&#x20;
 
-Use ``/bol`` to use Blush of Life.
+You will heal superficial willpower damage as per the book rules.
 
+Use `/bol` to use Blush of Life.
 
-
-**__How to roll__**
+**How to roll**
 
 Since your attributes, skills, disciplines and traits are in the bot you don't need to count dots, you can just write down the skills you are using!
 
-Example: ``/roll pool: charisma+persuasion+beautiful``
-(Attribute+skill+trait)
+**You always have to use the correct traits and never numbers. This allows you and us to know that your pool is always correct.**
 
-``/roll pool: strength+brawl+potence``
-(Attribute+skill+discipline)
+Example: `/roll pool: charisma+persuasion+beautiful` (Attribute+skill+trait)
 
-``/roll intelligence+academics.research``
-(attribute+skill.specialty)
+`/roll pool: strength+brawl+potence` (Attribute+skill+discipline)
 
-If you have advantages like **obvious predator** add **-2** to your pool.
+`/roll intelligence+academics.research` (attribute+skill.specialty)
 
-Example: ``/roll pool: manipulation+persuasion-2``
+If you have negative flaws like **obvious predator,** you can add **`-ObviousPredator`** or even a simple -2 when not using a specific trait.
 
-If you want to surge your roll add ``+surge`` to your pool
-``/roll manipulation+persuasion+surge``
-You'll get a surge bottom to rouse the blood for this roll.
+Example: `/roll pool: manipulation+persuasion-obviouspredator`
 
+If you want to surge your roll add `+surge` to your pool `/roll manipulation+persuasion+surge`&#x20;
 
+You'll get a surge button to rouse the blood which automatically pays the cost and increases the hunger if the rouse check fails.
 
-**__Resonances__**
+**Resonances**
 
 When you hunt for Kine you have to roll for resonance.
 
-Use ``/resonance`` to gain a random temperament and resonance.
+Use `/resonance` to gain a random temperament and resonance.
 
-If you get a resonance and need to roll for the temperament (bloodhounds for example) use
-``/temperament``
+If you get a resonance and need to roll for the temperament (bloodhounds for example) use `/temperament`
 
+**Damage & Healing**
 
+To add health and willpower damage to your character use: `/character adjust sup_hp/agg_hp*` or `/character adjust sup_wp/agg_wp`
 
-**__Damage & Healing__**
+If you want to **heal superficial health damage** use: `/mend`.
 
-To add health and willpower damage to your character use: 
-``/character adjust sup_hp/agg_hp*``
-or 
-``/character adjust sup_wp/agg_wp``
+If you want to **heal aggravated health damage** use: `/aggheal`.
 
-If you want to **heal superficial health damage** use: ``/mend``.
+**Willpower**
 
-If you want to **heal aggravated health damage** use: ``/aggheal``.
+To roll Willpower use `/roll pool: willpower Hunger: 0 diff: the diff you are rolling for`
 
+**Frenzy**
 
-
-**__Willpower__**
-
-To roll Willpower use
-``/roll pool: willpower Hunger: 0 diff: the diff you are rolling for``
-
-
-
-**__Frenzy__**
-
-You can perform a frenzy check  by using:
-``/frenzy``
+You can perform a frenzy check by using: `/frenzy`
