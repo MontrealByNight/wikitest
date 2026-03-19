@@ -82,10 +82,22 @@ The chronicle tenets _can_ be willingly broken by the character.
 
 ## Age
 
-* Childer or Fledgling Embraced within the last 15 years. Their generation is 12th or 13th, with a blood potency of 1. Thinbloods can be 14th,15th or 16th generation, with a blood potency of 0.
-* Neonates Embraced between 1940 and a decade ago. Their generation is 12th or 13th, with a blood potency of 1. Thinbloods can be 14th,15th or 16th generation, with a blood potency of 0. Their background story needs to be more detailed, with details including more about their kindred life. They receive:
-* 15 experience point, to spend on top of the sheet when everything has already been added
-* Ancillae Embraced between 1780 and 1940. Their total age might not be over 300 years. Their generation can be as lower as 10th and they have a starting blood potency of 2 (except for thin blood characters, which will still be 14/16th gen with a blood potency of 0) The background story needs to be extremely detailed and you can only create an Ancillae character after you've played in the server and received experience for at least 8 weeks. It is expected that you know the game and the lore at a good level before playing a character of this kind. Additionally, they receive:
+* Childer or Fledgling   
+Embraced within the last 15 years. Their generation is 12th or 13th, with a blood potency of 1. Thinbloods can be 14th,15th or 16th generation, with a blood potency of 0.
+
+* Neonates   
+Embraced between 1940 and a decade ago. Their generation is 12th or 13th, with a blood potency of 1. Thinbloods can be 14th,15th or 16th generation, with a blood potency of 0.
+Their background story needs to be more detailed, with details including more about their kindred life.  
+They receive:
+- 15 experience point, to spend on top of the sheet when everything has already been added.
+
+* Ancillae  
+Embraced between 1780 and 1940. Their total age might not be over 300 years.
+Their generation can be as lower as 10th and they have a starting blood potency of 2 (except for thin blood characters, which will still be 14/16th gen with a blood potency of 0).
+The background story needs to be extremely detailed and you can only create an Ancillae character after you've played in the server and received experience for at least 8 weeks.
+It is expected that you know the game and the lore at a good level before playing a character of this kind.
+Concepts and sheets will be heavily scrutinised and the staff can outright veto an ancillae character if we don't think it fits the thematics properly.
+Additionally, they receive:
 * 35 experience point, to spend on top of the sheet when everything else has already been added
 * 2 extra advantage points
 * 2 extra flaw points
