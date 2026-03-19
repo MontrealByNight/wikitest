@@ -153,7 +153,11 @@ Retiring a Character will award half of their earnt experience point (up to 50 -
 
 If a character dies, between 75% and 100% of their earnt experience points can go towards the creation of a new character, depending on the cause of their death.
 
-There is a one month grace period in which one can make small amends to a sheet or change completely their character, after character creation.
+There is a one month grace period in which one can make small amends to a sheet or change completely their character, after character creation.  
+
+**If you lose your Inconnu exp log, i will not be digging an endless amount of tickets to restore it. If you lose your exp log, your new total will be 0/0 and you basically start over.**  
+
+This includes all the exp related milestones, like character retiring experience.
 
 ## Expanded Ancillae character creation rules
 
